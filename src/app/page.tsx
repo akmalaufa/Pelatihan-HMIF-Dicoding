@@ -12,7 +12,7 @@ export default function Home() {
         <section className='flex justify-center px-36 items-center text-[#3D3D3D] gap-4'>
           <div className='space-y-4'>
             <h1 className='text-[32px] font-medium max-w-md'>Bangun Karirmu Sebagai Developer Profesional</h1>
-            <p className='pb-8'>Mulai belajar terarah dengan learning path</p>
+            <p className='pb-8 text-blue-300'>Mulai belajar terarah dengan learning path</p>
             <button className='bg-[#2d3e50] py-2 px-6 font-semibold rounded text-white'>Belajar Sekarang</button>
           </div>
           <Image src="/homepage-hero.png" alt="hero" width={600} height={600} /> 
