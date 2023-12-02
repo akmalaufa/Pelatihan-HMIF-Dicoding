@@ -25,7 +25,7 @@ export default function Home() {
                 <Image src="/beni.jpeg" alt="hero" fill className='object-cover' />
               </div>
               <div className='p-4'>
-                <h3 className='font-medium'>Beni</h3>
+                <h3 className='font-medium'>Agnes</h3>
                 <p className='text-sm'>Frontend Developer</p>
                 <p className='text-sm mt-4 italic'>"You can believe in your god, but i believe in satanic"</p>
               </div>
@@ -57,7 +57,7 @@ export default function Home() {
               <div className='p-4'>
                 <h3 className='font-medium'>Akmal Aufa Alim</h3>
                 <p className='text-sm'>Frontend Developer</p>
-                <p className='text-sm mt-4 italic'>"Pengalaman yang berharga didapatkan dari proses yang sulit"</p>
+                <p className='text-sm mt-4 italic'>"Musik tuh SHOEGAZE!!!"</p>
               </div>
             </div>
           </div>
