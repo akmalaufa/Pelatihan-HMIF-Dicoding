@@ -57,7 +57,7 @@ export default function Home() {
               <div className='p-4'>
                 <h3 className='font-medium'>Akmal Aufa Alim</h3>
                 <p className='text-sm'>Frontend Developer</p>
-                <p className='text-sm mt-4 italic'>"Pengalaman yang berharga didapatkan dari proses yang sulit"</p>
+                <p className='text-sm mt-4 italic'>"Musik mah ga harus teriak - teriak"</p>
               </div>
             </div>
           </div>
