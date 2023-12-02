@@ -60,6 +60,19 @@ export default function Home() {
                 <p className='text-sm mt-4 italic'>"Pengalaman yang berharga didapatkan dari proses yang sulit"</p>
               </div>
             </div>
+            <div>
+              <div className='flex flex-col bg-white border rounded overflow-hidden h-[450px] w-full'>
+                <div className='w-full h-72 relative'>
+                <Image src="/Nandax.jpeg" alt="hero" fill className='object-cover' />
+                </div>
+
+              </div>
+              <div className="p-4">
+                <h3 className='font-medium'> Ananda Putra Andika</h3>
+                <p className='text-sm'>Frontend Developer</p>
+                <p className='text-sm mt-4 italic'>Iyh ajh</p>
+              </div>
+            </div>
           </div>
         </section>
       </main>
